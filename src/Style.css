@@ -1,0 +1,64 @@
+.Box{
+ position: fixed;
+ contain: layout;
+width: 283px;
+height: 571px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.41) 0%, rgba(231, 206, 206, 0) 100%);
+border-radius: 50px;
+left: -20%;
+margin: 60px;
+
+}
+.Box > h1{
+    
+    width: 209px;
+    height: 32px;
+    margin-top: 10px;
+    font-family: 'Javanese Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 57px;
+    text-align: center;
+    
+    color: #000000;
+  ;
+ 
+    backdrop-filter: blur(4px);
+    /* Note: backdrop-filter has minimal browser support */
+
+}
+input{
+   
+box-sizing: border-box;
+display: block;
+width: 279px;
+
+height: 57px;
+margin-top:  50px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+.number6> {
+
+
+margin-top: 20px;
+
+
+
+
+
+}
+.Number1 {
+    margin-top: 4px;
+}
+.Number2 {
+    margin-top: 4px;
+}
+.Number3 {
+    margin-top: 4px;
+}
+.number5{
+    margin-top: 4px;
+    
+}
